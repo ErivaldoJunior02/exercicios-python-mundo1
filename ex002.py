@@ -1,0 +1,5 @@
+print("======" "DESAFIO 2" "======")
+dia = input("Em que dia você nasceu?")
+mes = input("Qual mês você nasceu?")
+ano = input("Qual o ano que você nasceu?")
+print("Você nasceu no dia", dia, "de", mes, "de", ano + ",", "estou correto?")

@@ -1,0 +1,5 @@
+print("======" "DESAFIO 27" "======")
+n = str(input("Digite seu nome: "))
+s = n.split()
+print(s[0])
+print(s[len(s)-1])

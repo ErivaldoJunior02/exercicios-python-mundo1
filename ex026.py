@@ -1,0 +1,5 @@
+print("======" "DESAFIO 26" "======")
+f = str(input("Escreva uma frase: ")).upper()
+print("Quantas vezes aparece a letra A?: {}".format(f.count("A")))
+print("Qual posição ela aparece pela primeira vez?: {}".format(f.find("A")))
+print("Qual posição ela aparece pela última vez?: {}".format(f.rfind("A")))
